@@ -1,0 +1,69 @@
+PODS:
+  - Alamofire (4.7.2)
+  - CHIPageControl/Jalapeno (0.1.5)
+  - IQKeyboardManagerSwift (6.0.3)
+  - libwebp (0.6.1):
+    - libwebp/core (= 0.6.1)
+    - libwebp/dec (= 0.6.1)
+    - libwebp/demux (= 0.6.1)
+    - libwebp/dsp (= 0.6.1)
+    - libwebp/enc (= 0.6.1)
+    - libwebp/mux (= 0.6.1)
+    - libwebp/utils (= 0.6.1)
+    - libwebp/webp (= 0.6.1)
+  - libwebp/core (0.6.1):
+    - libwebp/webp
+  - libwebp/dec (0.6.1):
+    - libwebp/core
+  - libwebp/demux (0.6.1):
+    - libwebp/core
+  - libwebp/dsp (0.6.1):
+    - libwebp/core
+  - libwebp/enc (0.6.1):
+    - libwebp/core
+  - libwebp/mux (0.6.1):
+    - libwebp/core
+  - libwebp/utils (0.6.1):
+    - libwebp/core
+  - libwebp/webp (0.6.1)
+  - LUExpandableTableView (3.0.0)
+  - SDWebImage/Core (4.3.3)
+  - SDWebImage/WebP (4.3.3):
+    - libwebp (~> 0.5)
+    - SDWebImage/Core
+  - SwiftyJSON (4.1.0)
+  - UPCarouselFlowLayout (1.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CHIPageControl/Jalapeno
+  - IQKeyboardManagerSwift
+  - LUExpandableTableView
+  - SDWebImage/WebP
+  - SwiftyJSON
+  - UPCarouselFlowLayout
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CHIPageControl
+    - IQKeyboardManagerSwift
+    - libwebp
+    - LUExpandableTableView
+    - SDWebImage
+    - SwiftyJSON
+    - UPCarouselFlowLayout
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  CHIPageControl: 79d19a8ee2e35fa3c1da6533adb5364c77b5cfea
+  IQKeyboardManagerSwift: 04e8679f85e496bb2c474eeb9284052f1b3c391c
+  libwebp: 0f01098c6c17175391af621b2f14150f3ca16e16
+  LUExpandableTableView: 3282bf2de40af3fadd97095f9a4738185a261d6f
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  UPCarouselFlowLayout: 02045c1505d63057fba3d9975be880a8d16bf17d
+
+PODFILE CHECKSUM: 34d9df73a781185460e44f66b3249bdd80efa840
+
+COCOAPODS: 1.5.2

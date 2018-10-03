@@ -1,0 +1,6 @@
+framework module Pods_Sunduq {
+  umbrella header "Pods-Sunduq-umbrella.h"
+
+  export *
+  module * { export * }
+}
